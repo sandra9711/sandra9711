@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Macebook](https://github.com/TnP-MACE/macebook-client)
 
-- 🌱 I’m currently learning **Reactjs Linux**
+- 🌱 I’m currently learning **Reactjs and Linux**
 
 - 👨‍💻 All of my projects are available at [https://determined-kirch-253d8f.netlify.app/](https://determined-kirch-253d8f.netlify.app/)
 
