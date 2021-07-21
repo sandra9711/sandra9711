@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Linux**
 
-- 👨‍💻 All of my projects are available at [https://determined-kirch-253d8f.netlify.app/](https://determined-kirch-253d8f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://myfolioweb.netlify.app/](https://myfolioweb.netlify.app/)
 
 - 📫 How to reach me **sandrarehan97@gmail.com**
 
