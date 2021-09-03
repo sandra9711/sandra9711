@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra Mariyam Jacob</h1>
-<h3 align="center">A Computer Science undergrad from India</h3>
+<h3 align="center">A Computer Science undergrad</h3>
 
 - 🔭 I’m currently working on [Macebook](https://github.com/sandra9711/macebook-frontend)
 
